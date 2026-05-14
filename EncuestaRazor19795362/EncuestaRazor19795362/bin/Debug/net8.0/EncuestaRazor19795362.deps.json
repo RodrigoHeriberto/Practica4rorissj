@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EncuestaRazor19795362/1.0.0": {
+        "runtime": {
+          "EncuestaRazor19795362.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncuestaRazor19795362/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
